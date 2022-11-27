@@ -1,5 +1,6 @@
 # Weather App
 An HTML, CSS, and JavaScript weather application that uses OpenWeather API and Unsplash API (takes a lot of time to load in images)  
+Check it out live here https://nown1ne.github.io/weather/
 
 <br/>  
 
