@@ -1,5 +1,5 @@
 # Weather App
-An HTML, CSS, and JavaScript weather application that uses OpenWeather API and Unsplash API  
+An HTML, CSS, and JavaScript weather application that uses OpenWeather API and Unsplash API (takes a lot of time to load in images)  
 
 <br/>  
 
